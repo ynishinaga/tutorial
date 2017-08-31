@@ -2,3 +2,4 @@ Add Master
 Add Development
 Add functionA
 Add functionB
+Add functionC
